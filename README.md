@@ -6,6 +6,7 @@
 
 <p align="center">
 <a href="https://helloaelita.com"><img src="https://img.shields.io/badge/Blog-helloaelita.com-ff5a7a?style=for-the-badge" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/helloaelita/"><img src="https://img.shields.io/badge/LinkedIn-helloaelita-4d7cff?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/helloaelita"><img src="https://img.shields.io/badge/Instagram-@helloaelita-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -33,6 +34,6 @@ I'm a marketer, not an engineer. I try things on my own life first, keep what wo
 
 ## 🌍 Say hello
 
-Come and see what I'm up to on [helloaelita.com](https://helloaelita.com) or [Instagram](https://www.instagram.com/helloaelita).
+Come and see what I'm up to on [helloaelita.com](https://helloaelita.com), [LinkedIn](https://www.linkedin.com/in/helloaelita/) or [Instagram](https://www.instagram.com/helloaelita).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4d7cff,50:8b5cf6,100:ff5a7a&section=footer" width="100%" alt="" />

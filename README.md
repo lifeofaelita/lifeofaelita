@@ -1,16 +1,38 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff5a7a,50:8b5cf6,100:4d7cff&section=header" width="100%" alt="" />
 
-<!--
-**lifeofaelita/lifeofaelita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Aelita 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center"><b>Growth marketer. I build small, free tools with AI and share how they work.</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://helloaelita.com"><img src="https://img.shields.io/badge/Blog-helloaelita.com-ff5a7a?style=for-the-badge" alt="Blog" /></a>
+<a href="https://www.instagram.com/helloaelita"><img src="https://img.shields.io/badge/Instagram-@helloaelita-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<br>
+
+## 📚 Now building: a bookshelf that learns what you like
+
+Most book apps ask for a star rating and stop there. Mine asks two questions instead: **how much did the ideas matter to you**, and **how easy was the book to keep reading?** Those two scores, plus the reasons you gave up on a book, shape the picks you get next.
+
+| What it does | What it costs |
+| --- | --- |
+| Shows your books on a real wooden shelf, with covers and ratings | Free |
+| Draws your taste in charts: genres you love, genres that lose you | Free |
+| Writes a weekly list of what to read next, using your own AI chatbot | Free, no sign-up |
+
+🔗 **Repo and live demo: coming soon.**
+
+<br>
+
+## 🌿 Why I build
+
+I'm a marketer, not an engineer. I try things on my own life first, keep what works, and share the prompts so you can make your own version in an afternoon.
+
+<br>
+
+## 🌍 Say hello
+
+Come and see what I'm up to on [helloaelita.com](https://helloaelita.com) or [Instagram](https://www.instagram.com/helloaelita).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4d7cff,50:8b5cf6,100:ff5a7a&section=footer" width="100%" alt="" />

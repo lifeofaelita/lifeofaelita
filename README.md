@@ -41,7 +41,7 @@ Most book apps ask for a star rating and stop there. Mine asks two questions ins
 ## 🌿 Why I build
 
 
-I'm not a developer. When a task in my marketing work is slow or manual, I build a tool for it with Claude Code and keep what works. Here I share the small, free ones along with the prompts, so you can make your own version in an afternoon.
+I'm not a developer. I build tools with Claude Code when a task in my marketing work is slow or manual, and I also build for fun. Whenever I spot a need for a tool, I want to make it. I keep what works and share the small, free ones here along with the prompts, so you can make your own version in an afternoon.
 
 
 <br>

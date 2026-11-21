@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff5a7a,50:8b5cf6,100:4d7cff&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:F5D3D8,50:F8C9A8,100:D9CCEB&section=header" width="100%" alt="" />
 
 
 <h1 align="center">Hi, I'm Aelita 👋</h1>
@@ -8,9 +8,9 @@
 
 
 <p align="center">
-<a href="https://helloaelita.com"><img src="https://img.shields.io/badge/Blog-helloaelita.com-ff5a7a?style=for-the-badge" alt="Blog" /></a>
-<a href="https://www.linkedin.com/in/helloaelita/"><img src="https://img.shields.io/badge/LinkedIn-helloaelita-4d7cff?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/helloaelita"><img src="https://img.shields.io/badge/Instagram-@helloaelita-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://helloaelita.com"><img src="https://img.shields.io/badge/Blog-helloaelita.com-F5D3D8?style=for-the-badge&labelColor=1C1A1D" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/helloaelita/"><img src="https://img.shields.io/badge/LinkedIn-helloaelita-F8C9A8?style=for-the-badge&labelColor=1C1A1D" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/helloaelita"><img src="https://img.shields.io/badge/Instagram-@helloaelita-D9CCEB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1C1A1D" alt="Instagram" /></a>
 </p>
 
 
@@ -53,5 +53,5 @@ I'm not a developer. I build tools with Claude Code when a task in my marketing 
 Come and see what I'm up to on [helloaelita.com](https://helloaelita.com), [LinkedIn](https://www.linkedin.com/in/helloaelita/) or [Instagram](https://www.instagram.com/helloaelita).
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4d7cff,50:8b5cf6,100:ff5a7a&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:D9CCEB,50:F8C9A8,100:F5D3D8&section=footer" width="100%" alt="" />
 

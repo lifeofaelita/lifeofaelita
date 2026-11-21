@@ -53,5 +53,5 @@ I'm not a developer. I build tools with Claude Code when a task in my marketing 
 Come and see what I'm up to on [helloaelita.com](https://helloaelita.com), [LinkedIn](https://www.linkedin.com/in/helloaelita/) or [Instagram](https://www.instagram.com/helloaelita).
 
 
-<img src="assets/banner.svg" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 

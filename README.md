@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:F5D3D8,50:F8C9A8,100:D9CCEB&section=header" width="100%" alt="" />
+<img src="assets/banner.svg" width="100%" alt="" />
 
 
 <h1 align="center">Hi, I'm Aelita 👋</h1>

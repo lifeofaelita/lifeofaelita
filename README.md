@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Aelita 👋</h1>
 
-<p align="center"><b>Growth marketer. I build small, free tools with AI and share how they work.</b></p>
+<p align="center"><b>Growth marketer working in GEO and email. When something is slow or manual, I build a tool for it with Claude.</b></p>
 
 <p align="center">
 <a href="https://helloaelita.com"><img src="https://img.shields.io/badge/Blog-helloaelita.com-ff5a7a?style=for-the-badge" alt="Blog" /></a>
@@ -28,7 +28,7 @@ Most book apps ask for a star rating and stop there. Mine asks two questions ins
 
 ## 🌿 Why I build
 
-I'm a marketer, not an engineer. I try things on my own life first, keep what works, and share the prompts so you can make your own version in an afternoon.
+I'm not a developer. When a task in my marketing work is slow or manual, I build a tool for it with Claude Code and keep what works. Here I share the small, free ones along with the prompts, so you can make your own version in an afternoon.
 
 <br>
 

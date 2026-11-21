@@ -32,6 +32,8 @@ Most book apps ask for a star rating and stop there. Mine asks two questions ins
 
 🔗 **[Try the live bookshelf](https://lifeofaelita.github.io/bookshelf/)** · **[Get the code](https://github.com/lifeofaelita/bookshelf)**
 
+<sub>Tip: Cmd or Ctrl+click a link to open it in a new tab and keep this page.</sub>
+
 
 <br>
 
